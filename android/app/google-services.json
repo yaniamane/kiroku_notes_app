@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "520916104762",
+    "firebase_url": "https://kiroku-note-4262f-default-rtdb.firebaseio.com",
+    "project_id": "kiroku-note-4262f",
+    "storage_bucket": "kiroku-note-4262f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520916104762:android:f90625130c7edcdfa12703",
+        "android_client_info": {
+          "package_name": "com.megurinex.kiroku_notes_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520916104762-2c8r1lmki2ereunnp601pdtsbpl66e2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO40wSWyVzMyetYc262ySIIYkgmTLBdKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520916104762-2c8r1lmki2ereunnp601pdtsbpl66e2o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "520916104762-5g5un7kg6ihg18ssbe3lv2p54vgmqpnj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.megurinex.kirokuNotesApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
