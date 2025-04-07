@@ -43,6 +43,7 @@ dependencies:
   responsive_framework: ^1.5.1
   material3_layout: ^0.0.7
   get: ^4.6.5
+  curved_labeled_navigation_bar: ^2.0.6
 
 dev_dependencies:
   flutter_test:
